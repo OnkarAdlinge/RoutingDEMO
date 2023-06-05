@@ -1,0 +1,27 @@
+
+header
+{
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.container-fluid
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 2px;
+}
+h2 a:active,:visited,:link,:hover
+{
+    color: black;
+    text-decoration: none;
+}
+#nav-div
+{
+    padding: 5px;
+}
+#nav-div a
+{
+    margin-right: 5px;
+    color: blue;
+}
